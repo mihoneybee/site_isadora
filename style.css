@@ -435,7 +435,7 @@ a:hover {
 .contact-info-details {
     background-color: var(--primary-blue); /* Fundo azul escuro para as informações de contato */
     color: var(--light-text);
-    padding: 40px;
+    padding: 40px 30px 185px;
     border-radius: 8px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.08);
     text-align: left;
@@ -685,3 +685,4 @@ a:hover {
         font-size: 0.9rem;
     }
 }
+
